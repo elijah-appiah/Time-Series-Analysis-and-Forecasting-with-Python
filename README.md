@@ -26,7 +26,7 @@
      - Classical Decomposition
      - Seasonal and Trend Decomposition Using Loess (STL) Decomposition
      - Seasonal Extraction in ARIMA Time Series (SEATS) Decomposition (developed by the Bank of Spain)
-     - X-11, X-12-ARIMA, X-13-ARIMA Decomposition (Census II Method developed by US Census Bureau)
+     - X-11, X-12-ARIMA, X-13-ARIMA Decomposition (Census II Method developed by the US Census Bureau)
 2. **Time Series Forecasting**
    - Mean Forecast Method
    - Naive and Seasonal Naive Forecast Method
