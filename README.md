@@ -4,7 +4,7 @@
 
 <hr>
 
-![Time Series Cover Photo]()
+![Time Series Cover Photo](https://github.com/elijah-appiah/Time-Series-Analysis-and-Forecasting-with-Python/blob/main/Time%20Series%20Analysis%2C%20Modeling%20and%20Forecasting.png)
 
 <hr>
 <hr>
