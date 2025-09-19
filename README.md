@@ -10,7 +10,7 @@
 <hr>
 
 
-### Here is an outline of what is covered:
+### Here is an outline of what is covered: 
 
 1. **Time Series Concepts**
    - Graphics and Visualization of Time Series Data
